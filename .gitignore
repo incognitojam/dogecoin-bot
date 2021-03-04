@@ -1,0 +1,13 @@
+.gradle
+out
+build
+*.class
+*.log
+
+.idea
+*.iml
+.vscode
+
+.DS_Store
+
+.env
